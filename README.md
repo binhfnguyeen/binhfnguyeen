@@ -64,6 +64,15 @@
 
 ## 📌 Featured Projects
 
+### 🔹 AI English Learning Platform (Microservices) - Inprogress
+**Tech:** Spring Boot, OAuth2, WebSocket, PostgreSQL, Docker, Ollama  
+- Designed scalable microservices architecture  
+- Implemented real-time communication with WebSocket  
+- Built AI study assistant & automated grading system  
+👉 https://github.com/binhfnguyeen/english-learning-microservices
+
+---
+
 ### 🔹 Microservices Task Management System (Trello-like)
 **Tech:** Spring Boot, Eureka, JWT, PostgreSQL, Docker  
 - Built Task Service with APIs for Boards & Cards  
@@ -71,15 +80,6 @@
 - Containerized services using Docker Compose  
 - Implemented role-based authentication  
 👉 https://github.com/huy13789/microservices_task_management
-
----
-
-### 🔹 AI English Learning Platform (Microservices)
-**Tech:** Spring Boot, OAuth2, WebSocket, PostgreSQL, Docker, Ollama  
-- Designed scalable microservices architecture  
-- Implemented real-time communication with WebSocket  
-- Built AI study assistant & automated grading system  
-👉 https://github.com/binhfnguyeen/english-learning-microservices
 
 ---
 
