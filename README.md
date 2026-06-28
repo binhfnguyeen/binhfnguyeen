@@ -26,6 +26,24 @@ I am a passionate **Software Engineer** specializing in the **Java / Spring ecos
 
 ---
 
+## 💼 Work Experience
+
+### **Full-stack Developer**
+**SPARKMINDS JOINT STOCK COMPANY** (Full-time) | *Mar 2026 – Present (Vietnam · On-site)*
+- Engineered and optimized scalable backend endpoints using **Java & Spring Boot** to support large-scale client requirements.
+- Implemented and maintained highly interactive frontend components using **ReactJS** and modern state-management libraries.
+- Formulated relational database structures using **PostgreSQL** and written optimized queries for complex business data relations.
+- Created robust unit test coverage and validated REST APIs with **Postman** to guarantee reliable service delivery.
+
+### **Full-stack Developer**
+**Mantis Vietnam JSC** (Contract / Remote) | *Oct 2025 – Dec 2025 (Remote)*
+- Built and enhanced a **modulith backend architecture** using **Java and Spring Boot** to simplify application complexity and improve maintainability.
+- Developed and maintained responsive user interfaces using **ReactJS** to optimize browser performance and UX/UI alignments.
+- Designed and managed normalized databases using **PostgreSQL** to handle transactional application data.
+- Wrote complete unit testing suites and performed comprehensive automated endpoint validation using **Postman**.
+
+---
+
 ## 🛠 Tech Stack
 
 ### ☕ Backend & Frameworks
@@ -78,7 +96,7 @@ I am a passionate **Software Engineer** specializing in the **Java / Spring ecos
 
 ### 🔹 1. AI-Powered Microservices Fashion E-Commerce Platform
 A highly scalable, multi-tier e-commerce ecosystem designed around distributed microservice patterns, featuring robust payment verification and styling assistant integration.
-*   **Technologies:** Spring Boot, Spring Cloud (Gateway, Eureka Server), PostgreSQL, Apache Kafka, Docker, Google Gemini API, PayPal Sandbox SDK, React, TypeScript.
+*   **Technologies:** Spring Boot, Spring Cloud (Gateway, Eureka Server), PostgreSQL, Apache Kafka, Docker, Google Gemini API, PayPal Sandbox SDK, React, TypeScript, Tailwind CSS.
 *   **Key Contributions:**
     *   Designed and spun up a secure **Microservices Architecture** containing 7 independent backend services.
     *   Engineered **event-driven choreographies** utilizing **Apache Kafka** to reliably synchronize checkouts from the `payment-service` with stock levels in the `product-service` via transaction listeners.
