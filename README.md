@@ -30,10 +30,11 @@ I am a passionate **Software Engineer** specializing in the **Java / Spring ecos
 
 ### ☕ Backend & Frameworks
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/java.svg" width="30" height="30" alt="Java"/></a>&nbsp;
-  <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/spring.svg" width="30" height="30" alt="Spring"/></a>&nbsp;
-  <a href="https://hibernate.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hibernate/hibernate-orm/main/hibernate-core/src/main/resources/org/hibernate/icon.svg" width="30" height="30" alt="Hibernate"/></a>&nbsp;
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/fastapi.svg" width="30" height="30" alt="FastAPI"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 - **Core Technologies:** Java (JDK 17/21), Spring Boot, Spring Cloud Gateway, Netflix Eureka, Spring Data JPA, Spring Security, Spring Mail.
@@ -41,10 +42,10 @@ I am a passionate **Software Engineer** specializing in the **Java / Spring ecos
 
 ### 💾 Databases & Middleware
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/postgresql.svg" width="30" height="30" alt="PostgreSQL"/></a>&nbsp;
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/mysql.svg" width="30" height="30" alt="MySQL"/></a>&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/redis.svg" width="30" height="30" alt="Redis"/></a>&nbsp;
-  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="30" height="30" alt="Apache Kafka"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
 </p>
 
 - **Relational Databases:** PostgreSQL, MySQL.
@@ -52,10 +53,10 @@ I am a passionate **Software Engineer** specializing in the **Java / Spring ecos
 
 ### 🛠 DevOps, Tools & Infrastructure
 <p align="left">
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/docker.svg" width="30" height="30" alt="Docker"/></a>&nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/git.svg" width="30" height="30" alt="Git"/></a>&nbsp;
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/postman.svg" width="30" height="30" alt="Postman"/></a>&nbsp;
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/linux.svg" width="30" height="30" alt="Linux"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 - **Virtualization:** Docker, Docker Compose.
@@ -63,10 +64,10 @@ I am a passionate **Software Engineer** specializing in the **Java / Spring ecos
 
 ### 🌐 Frontend & Others
 <p align="left">
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/react.svg" width="30" height="30" alt="React"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/typescript.svg" width="30" height="30" alt="TypeScript"/></a>&nbsp;
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/tailwindcss.svg" width="30" height="30" alt="Tailwind CSS"/></a>&nbsp;
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/skills/logos/nextjs.svg" width="30" height="30" alt="Next.js"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </p>
 
 - **Frontend Technologies:** React, TypeScript, Next.js, HTML5, CSS3, Tailwind CSS, Material UI (MUI).
@@ -77,7 +78,7 @@ I am a passionate **Software Engineer** specializing in the **Java / Spring ecos
 
 ### 🔹 1. AI-Powered Microservices Fashion E-Commerce Platform
 A highly scalable, multi-tier e-commerce ecosystem designed around distributed microservice patterns, featuring robust payment verification and styling assistant integration.
-*   **Technologies:** Spring Boot, Spring Cloud (Gateway, Eureka Server), PostgreSQL, Apache Kafka, Docker, Google Gemini API, PayPal Sandbox SDK, React 19, TypeScript, Tailwind CSS, Material UI (MUI).
+*   **Technologies:** Spring Boot, Spring Cloud (Gateway, Eureka Server), PostgreSQL, Apache Kafka, Docker, Google Gemini API, PayPal Sandbox SDK, React, TypeScript.
 *   **Key Contributions:**
     *   Designed and spun up a secure **Microservices Architecture** containing 7 independent backend services.
     *   Engineered **event-driven choreographies** utilizing **Apache Kafka** to reliably synchronize checkouts from the `payment-service` with stock levels in the `product-service` via transaction listeners.
