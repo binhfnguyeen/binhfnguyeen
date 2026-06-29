@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chau Binh Nguyen</h1>
-<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot & Microservices Specialist</h3>
+<h3 align="center">Software Engineer | Fullstack Developer</h3>
 
 <p align="center">
   <a href="mailto:nguyenchau16112004@gmail.com">
