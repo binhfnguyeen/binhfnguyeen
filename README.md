@@ -140,7 +140,7 @@ A collaborative, Trello-like board organizer built to handle workflows and task 
 ---
 
 ## 🎯 Career Goal
-My immediate goal is to establish myself as a **Java Backend Engineer**, mastering system performance optimization, caching strategies, distributed transaction management (e.g., Saga Pattern), and cloud-native deployments (Kubernetes, AWS). I aspire to build robust products that deliver great user experience and architectural elegance.
+My immediate goal is to establish myself as a **Fullstack Engineer**, mastering system performance optimization, caching strategies, distributed transaction management (e.g., Saga Pattern), and cloud-native deployments (Kubernetes, AWS). I aspire to build robust products that deliver great user experience and architectural elegance.
 
 ---
 
